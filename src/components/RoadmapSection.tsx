@@ -138,7 +138,7 @@ export function RoadmapSection() {
           <div className="flex items-center space-x-2 mb-10 text-left">
             <Milestone className="w-5 h-5 text-indigo-600" />
             <h3 className="font-sans font-bold text-lg text-slate-800">
-              三阶段梯级推进路线图
+              三阶段推进路线
             </h3>
           </div>
 
