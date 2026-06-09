@@ -1,0 +1,6 @@
+{
+  "name": "酒店智能体合作方案",
+  "description": "华创云信与明宇集团酒店智能体合作方案演示系统，展示AI原生基础设施及全套智能体协同方案",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
