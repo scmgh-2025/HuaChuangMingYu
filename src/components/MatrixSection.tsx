@@ -77,9 +77,7 @@ export function MatrixSection() {
                 <h3 className="text-xl sm:text-2xl font-sans font-bold text-slate-800 tracking-tight">
                   面向住客：全流程智能体验
                 </h3>
-                <p className="font-sans text-sm sm:text-base leading-relaxed text-slate-500">
-                  集成智能问答、客房服务、周边推荐等一站式功能，配备天气助手、行程伴侣等专属智能体，精准捕捉并满足住客多样化、个性化的出行与住宿需求，重塑入住全流程体验。
-                </p>
+
               </div>
 
               <div className="space-y-3 mt-2">
@@ -100,7 +98,7 @@ export function MatrixSection() {
 
             <div className="lg:col-span-7 grid grid-cols-3 gap-2 sm:gap-4 justify-center w-full">
               {/* Phone Mockup 1-A */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -110,7 +108,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 1-B */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -120,7 +118,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 1-C */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-indigo-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -138,9 +136,7 @@ export function MatrixSection() {
                 <h3 className="text-xl sm:text-2xl font-sans font-bold text-slate-800 tracking-tight">
                   面向员工：运营提质提效
                 </h3>
-                <p className="font-sans text-sm sm:text-base leading-relaxed text-slate-500">
-                  通过自动化流程处理客房工单、住客反馈与行李寄存，AI辅助前台完成记事与交班工作，有效简化重复操作，让员工聚焦高价值服务，保障酒店服务的连续性与专业性。
-                </p>
+
               </div>
 
               <div className="space-y-3 mt-2">
@@ -161,7 +157,7 @@ export function MatrixSection() {
 
             <div className="lg:col-span-7 grid grid-cols-3 gap-2 sm:gap-4 justify-center w-full">
               {/* Phone Mockup 2-A */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -171,7 +167,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 2-B */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -181,7 +177,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 2-C */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-purple-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -199,9 +195,7 @@ export function MatrixSection() {
                 <h3 className="text-xl sm:text-2xl font-sans font-bold text-slate-800 tracking-tight">
                   面向管理：经营与收益双赢
                 </h3>
-                <p className="font-sans text-sm sm:text-base leading-relaxed text-slate-500">
-                  提供多维度运营数据洞察，配备房价竞价、活动策划等智能化经营工具，并对接融资匹配服务，为管理者提供科学决策依据，助力酒店优化运营策略，实现长期稳健的收益增长。
-                </p>
+
               </div>
 
               <div className="space-y-3 mt-2">
@@ -222,7 +216,7 @@ export function MatrixSection() {
 
             <div className="lg:col-span-7 grid grid-cols-3 gap-2 sm:gap-4 justify-center w-full">
               {/* Phone Mockup 3-A */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -232,7 +226,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 3-B */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}
@@ -242,7 +236,7 @@ export function MatrixSection() {
               </div>
 
               {/* Phone Mockup 3-C */}
-              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-105 hover:shadow-xl">
+              <div className="relative w-full max-w-[155px] sm:max-w-[175px] aspect-[9/18.5] border-[4px] border-slate-900 rounded-[22px] shadow-lg bg-slate-950 p-[1px] overflow-hidden select-none shadow-amber-100/30 transition-transform duration-300 hover:scale-125 hover:shadow-xl">
 
 
                 {/* Screen context */}

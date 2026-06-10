@@ -167,11 +167,11 @@ export function CompanySection() {
                   <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
                 </span>
                 <h4 className="font-sans font-bold text-xl sm:text-2xl text-slate-800">
-                  构建智能体生态
+                  旅游智能体生态
                 </h4>
               </div>
               <p className="font-sans font-normal text-sm sm:text-base text-slate-650 leading-relaxed">
-                {HUACHUANG_INTRO.recentBreakthrough}
+                2024年，由<span className="font-bold text-slate-800">贵州旅游产业发展集团</span>与<span className="font-bold text-slate-800">华创云信</span>组建<span className="font-bold text-slate-800">贵旅数网公司</span>，按照贵州省委、省政府指导要求，紧扣大数据赋能文旅产业高质量发展的战略部署，推动建设了覆盖"吃、住、行、游、购、娱"全链条的全省一站式<span className="font-bold text-slate-800">旅游智能服务总入口"多彩黄小西"</span>，形成涵盖景区、酒店、餐饮、个人、游客等涉旅场景的智能体体系。
               </p>
             </div>
           </div>
